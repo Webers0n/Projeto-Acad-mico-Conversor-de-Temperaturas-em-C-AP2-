@@ -1,0 +1,1 @@
+# Projeto-Acad-mico-Conversor-de-Temperaturas-em-C-AP2-
