@@ -1,0 +1,11 @@
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\bin\Debug\Linguagem C# AP2 1.0.exe.config
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\bin\Debug\Linguagem C# AP2 1.0.exe
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\bin\Debug\Linguagem C# AP2 1.0.pdb
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.csproj.AssemblyReference.cache
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem_C__AP2_1._0.Form1.resources
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem_C__AP2_1._0.Properties.Resources.resources
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.csproj.GenerateResource.cache
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.exe
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.pdb
+C:\Users\Weberson Oliveira\source\repos\Linguagem C# AP2 1.0\Linguagem C# AP2 1.0\obj\Debug\Linguagem C# AP2 1.0.exe.config
