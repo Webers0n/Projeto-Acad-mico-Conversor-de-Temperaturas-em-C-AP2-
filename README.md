@@ -28,8 +28,9 @@ Mensagens de aviso e erro são exibidas por meio de **MessageBox**, garantindo u
 
 ## 🖥️ Captura de Tela
 
-![Tela Principal](imagens/tela-principal.png)
-![Tela Principal](https://github.com/Weber0n/Linguagem-C-AP2/blob/main/imagens/tela-principal.png?raw=true)
+![Tela Principal](Linguagem%20C%23%20AP2%201.0/img/tela-principal.png)
+
+
 
 
 
